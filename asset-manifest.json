@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.19bbcc13.chunk.css",
-    "main.js": "./static/js/main.4ab40e8b.chunk.js",
-    "main.js.map": "./static/js/main.4ab40e8b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.1433afb0.js",
-    "runtime-main.js.map": "./static/js/runtime-main.1433afb0.js.map",
-    "static/js/2.71a0a43c.chunk.js": "./static/js/2.71a0a43c.chunk.js",
-    "static/js/2.71a0a43c.chunk.js.map": "./static/js/2.71a0a43c.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.19bbcc13.chunk.css.map": "./static/css/main.19bbcc13.chunk.css.map",
-    "static/js/2.71a0a43c.chunk.js.LICENSE.txt": "./static/js/2.71a0a43c.chunk.js.LICENSE.txt",
-    "static/media/email.f052d961.svg": "./static/media/email.f052d961.svg",
-    "static/media/fav.fa53f179.svg": "./static/media/fav.fa53f179.svg",
-    "static/media/internet.6c063cec.svg": "./static/media/internet.6c063cec.svg",
-    "static/media/location.894d4136.svg": "./static/media/location.894d4136.svg",
-    "static/media/logo.3dc88ffd.svg": "./static/media/logo.3dc88ffd.svg",
-    "static/media/nonfavorite.c89e8685.svg": "./static/media/nonfavorite.c89e8685.svg",
-    "static/media/phone.e43acd22.svg": "./static/media/phone.e43acd22.svg",
-    "static/media/sortASC.186c0b66.svg": "./static/media/sortASC.186c0b66.svg",
-    "static/media/sortDESC.55fc2b08.svg": "./static/media/sortDESC.55fc2b08.svg"
+    "main.css": "/react_contact-book/static/css/main.19bbcc13.chunk.css",
+    "main.js": "/react_contact-book/static/js/main.a3ecf773.chunk.js",
+    "main.js.map": "/react_contact-book/static/js/main.a3ecf773.chunk.js.map",
+    "runtime-main.js": "/react_contact-book/static/js/runtime-main.528ece86.js",
+    "runtime-main.js.map": "/react_contact-book/static/js/runtime-main.528ece86.js.map",
+    "static/js/2.71a0a43c.chunk.js": "/react_contact-book/static/js/2.71a0a43c.chunk.js",
+    "static/js/2.71a0a43c.chunk.js.map": "/react_contact-book/static/js/2.71a0a43c.chunk.js.map",
+    "index.html": "/react_contact-book/index.html",
+    "static/css/main.19bbcc13.chunk.css.map": "/react_contact-book/static/css/main.19bbcc13.chunk.css.map",
+    "static/js/2.71a0a43c.chunk.js.LICENSE.txt": "/react_contact-book/static/js/2.71a0a43c.chunk.js.LICENSE.txt",
+    "static/media/email.f052d961.svg": "/react_contact-book/static/media/email.f052d961.svg",
+    "static/media/fav.fa53f179.svg": "/react_contact-book/static/media/fav.fa53f179.svg",
+    "static/media/internet.6c063cec.svg": "/react_contact-book/static/media/internet.6c063cec.svg",
+    "static/media/location.894d4136.svg": "/react_contact-book/static/media/location.894d4136.svg",
+    "static/media/logo.3dc88ffd.svg": "/react_contact-book/static/media/logo.3dc88ffd.svg",
+    "static/media/nonfavorite.c89e8685.svg": "/react_contact-book/static/media/nonfavorite.c89e8685.svg",
+    "static/media/phone.e43acd22.svg": "/react_contact-book/static/media/phone.e43acd22.svg",
+    "static/media/sortASC.186c0b66.svg": "/react_contact-book/static/media/sortASC.186c0b66.svg",
+    "static/media/sortDESC.55fc2b08.svg": "/react_contact-book/static/media/sortDESC.55fc2b08.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1433afb0.js",
+    "static/js/runtime-main.528ece86.js",
     "static/js/2.71a0a43c.chunk.js",
     "static/css/main.19bbcc13.chunk.css",
-    "static/js/main.4ab40e8b.chunk.js"
+    "static/js/main.a3ecf773.chunk.js"
   ]
 }
